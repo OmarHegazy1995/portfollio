@@ -45,7 +45,7 @@ export default function App() {
       title: "SocialLab",
       description: "AI-powered social media platform with real-time insights, interactive dashboard, and measurable results.",
       link: "https://omarhegazy1995.github.io/SocialLab/",
-      image: "/13.png",
+      image: "/portfollio/13.png",
       technologies: ["React", "Leaflet", "Socket.io", "Express"],
       github: "https://github.com/OmarHegazy1995/SocialLab"
     },
@@ -54,7 +54,7 @@ export default function App() {
       title: "yummy Restaurant Website",
       description: "Complete website and menu system for a restaurant brand, featuring online ordering, reservation system, and delivery integration.",
       link: "https://omarhegazy1995.github.io/yummy/",
-      image: "/6.png",
+      image: "/portfollio/6.png",
       technologies: ["React", "JavaScript", "CSS3", "Node.js"],
       github: "https://github.com/OmarHegazy1995//yummy/"
     },
@@ -63,7 +63,7 @@ export default function App() {
       title: "Employee Data Archive System",
       description: "JavaScript-based system for managing and archiving employee data with secure storage and advanced search.",
       link: "https://omarhegazy1995.github.io/database-employee/",
-      image: "/7.png",
+      image: "/portfollio/7.png",
       technologies: ["Next.js", "React", "MongoDB", "Node.js", "Tailwind CSS"],
       github: "https://github.com/OmarHegazy1995/database-employee"
     },
@@ -73,7 +73,7 @@ export default function App() {
       title: "Interactive GIS Map - Northern Borders Municipality",
       description: "Interactive GIS system built with React and Mapbox for investment land visualization in the Northern Borders region.",
       link: "https://omarhegazy1995.github.io/InteractiveMap",
-      image: "/5.png",
+      image: "/portfollio/5.png",
       technologies: ["React", "Mapbox GL", "TailwindCSS", "GIS"],
       github: "https://github.com/OmarHegazy1995/InteractiveMap"  
     },
@@ -81,7 +81,7 @@ export default function App() {
       title: "portfolio Application",
       description: "Advanced web application for task management with team collaboration features and real-time synchronization.",
       link: "https://omarhegazy1995.github.io/portfolio/",
-      image: "/8.png",
+      image: "/portfollio/8.png",
       technologies: ["HLML5", "CSS3"],
       github: "https://github.com/OmarHegazy1995/portfolio"
     },
@@ -107,13 +107,13 @@ export default function App() {
       name: "Ahmed Kassab",
       role: "Project Manager",
       content: "Omar delivered an exceptional GIS application that exceeded our expectations. His attention to detail and technical expertise are impressive.",
-      avatar: "/2.jpg"
+      avatar: "/portfollio/2.jpg"
     },
     {
       name: "Ahmed Magdy",
       role: " Media Company Owner",
       content: "The website Omar created for our company has significantly improved our online presence and client engagement.",
-      avatar: "/3.png"
+      avatar: "/portfollio/3.png"
     }
   ];
 
@@ -514,7 +514,7 @@ export default function App() {
             }}
           >
             <img 
-              src="/1.jpg" 
+              src="/portfollio/1.jpg" 
               alt="Omar Hegazy" 
               className="w-full h-full object-cover"
             />
@@ -583,7 +583,7 @@ export default function App() {
               Contact Me
             </motion.a>
             <motion.a
-  href="/omar-hegazy-resume.pdf"
+  href="/portfollio/omar-hegazy-resume.pdf"
   className="bg-cyan-500/20 text-cyan-300 px-8 py-4 rounded-full hover:bg-cyan-500/30 transition-all duration-300 backdrop-blur-sm border border-cyan-400/30 font-semibold flex items-center gap-3"
   whileHover={{ scale: 1.05 }}
   whileTap={{ scale: 0.95 }}
@@ -646,7 +646,7 @@ export default function App() {
             >
               <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-blue-500 mx-auto shadow-2xl">
                 <img 
-                  src="/1.jpg" 
+                  src="/portfollio/1.jpg" 
                   alt="Omar Hegazy" 
                   className="w-full h-full object-cover"
                 />
